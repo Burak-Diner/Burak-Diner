@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I build scalable and maintainable software systems with a strong focus on backend architecture and clean design.
 
@@ -28,7 +28,7 @@ I build scalable and maintainable software systems with a strong focus on backen
 
 ---
 
-## 🔄 Core Skills (LinkedIn Skills)
+##  Core Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js" height="45"/>
@@ -71,7 +71,7 @@ I build scalable and maintainable software systems with a strong focus on backen
 
 ---
 
-## 🧠 Currently Learning (Animated)
+##  Currently Learning
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2400&pause=700&color=00FF9C&center=true&vCenter=true&width=700&lines=Currently+Learning%3A;Clean+Architecture+Deep+Dive;ASP.NET+Core+MVC+Patterns;Docker+%26+CI%2FCD+Pipelines;System+Design+Foundations" />
@@ -79,13 +79,13 @@ I build scalable and maintainable software systems with a strong focus on backen
 
 ---
 
-## 🔥 Badges (Hover-style / Show)
+##  Badges
 
 <p align="center">
   <a href="https://github.com/Burak-Diner">
     <img src="https://img.shields.io/badge/GitHub-Burak--Diner-111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:burakdin1618@gmail.com">
+  <a href="mailto:burakdiner6181@gmail.com">
     <img src="https://img.shields.io/badge/Email-burakdin1618%40gmail.com-111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <img src="https://img.shields.io/badge/Open%20to%20Collaboration-111?style=for-the-badge&logo=handshake&logoColor=00C2FF" />
@@ -94,7 +94,7 @@ I build scalable and maintainable software systems with a strong focus on backen
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 - **QrOrder System** — Structured multi-layer backend architecture  
 - **Mastermind AI Game** — Algorithmic problem-solving project  
